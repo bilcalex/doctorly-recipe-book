@@ -1,0 +1,14 @@
+C:\Users\bilca\Documents\doctorly-recipe-tracker\RecipeApi\bin\Debug\netcoreapp2.2\RecipeApi.deps.json
+C:\Users\bilca\Documents\doctorly-recipe-tracker\RecipeApi\bin\Debug\netcoreapp2.2\RecipeApi.runtimeconfig.json
+C:\Users\bilca\Documents\doctorly-recipe-tracker\RecipeApi\bin\Debug\netcoreapp2.2\RecipeApi.runtimeconfig.dev.json
+c:\Users\bilca\Documents\doctorly-recipe-tracker\RecipeApi\bin\Debug\netcoreapp2.2\RecipeApi.dll
+c:\Users\bilca\Documents\doctorly-recipe-tracker\RecipeApi\bin\Debug\netcoreapp2.2\RecipeApi.pdb
+c:\Users\bilca\Documents\doctorly-recipe-tracker\RecipeApi\obj\Debug\netcoreapp2.2\RecipeApi.csprojAssemblyReference.cache
+c:\Users\bilca\Documents\doctorly-recipe-tracker\RecipeApi\obj\Debug\netcoreapp2.2\RecipeApi.csproj.CoreCompileInputs.cache
+c:\Users\bilca\Documents\doctorly-recipe-tracker\RecipeApi\obj\Debug\netcoreapp2.2\RecipeApi.RazorAssemblyInfo.cache
+c:\Users\bilca\Documents\doctorly-recipe-tracker\RecipeApi\obj\Debug\netcoreapp2.2\RecipeApi.RazorAssemblyInfo.cs
+c:\Users\bilca\Documents\doctorly-recipe-tracker\RecipeApi\obj\Debug\netcoreapp2.2\RecipeApi.AssemblyInfoInputs.cache
+c:\Users\bilca\Documents\doctorly-recipe-tracker\RecipeApi\obj\Debug\netcoreapp2.2\RecipeApi.AssemblyInfo.cs
+c:\Users\bilca\Documents\doctorly-recipe-tracker\RecipeApi\obj\Debug\netcoreapp2.2\RecipeApi.RazorTargetAssemblyInfo.cache
+c:\Users\bilca\Documents\doctorly-recipe-tracker\RecipeApi\obj\Debug\netcoreapp2.2\RecipeApi.dll
+c:\Users\bilca\Documents\doctorly-recipe-tracker\RecipeApi\obj\Debug\netcoreapp2.2\RecipeApi.pdb
