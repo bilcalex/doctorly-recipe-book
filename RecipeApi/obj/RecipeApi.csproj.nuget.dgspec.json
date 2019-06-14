@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\bilca\\Documents\\doctorly-recipe-tracker\\doctorly-recipe-book\\RecipeApi\\RecipeApi.csproj": {}
+    "C:\\Users\\bilca\\Documents\\doctorly-recipe-tracker\\doctorly-recipe-book\\RecipeApi\\RecipeApi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\bilca\\Documents\\doctorly-recipe-tracker\\doctorly-recipe-book\\RecipeApi\\RecipeApi.csproj": {
+    "C:\\Users\\bilca\\Documents\\doctorly-recipe-tracker\\doctorly-recipe-book\\RecipeApi\\RecipeApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\bilca\\Documents\\doctorly-recipe-tracker\\doctorly-recipe-book\\RecipeApi\\RecipeApi.csproj",
+        "projectUniqueName": "C:\\Users\\bilca\\Documents\\doctorly-recipe-tracker\\doctorly-recipe-book\\RecipeApi\\RecipeApi.csproj",
         "projectName": "RecipeApi",
-        "projectPath": "c:\\Users\\bilca\\Documents\\doctorly-recipe-tracker\\doctorly-recipe-book\\RecipeApi\\RecipeApi.csproj",
+        "projectPath": "C:\\Users\\bilca\\Documents\\doctorly-recipe-tracker\\doctorly-recipe-book\\RecipeApi\\RecipeApi.csproj",
         "packagesPath": "C:\\Users\\bilca\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\bilca\\Documents\\doctorly-recipe-tracker\\doctorly-recipe-book\\RecipeApi\\obj\\",
+        "outputPath": "C:\\Users\\bilca\\Documents\\doctorly-recipe-tracker\\doctorly-recipe-book\\RecipeApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -55,6 +55,10 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
             }
           },
           "imports": [
