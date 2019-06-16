@@ -1,0 +1,11 @@
+C:\Users\bilca\Documents\doctorly-recipe-tracker\doctorly-recipe-book\ApiClient\bin\Debug\netcoreapp2.2\ApiClient.deps.json
+C:\Users\bilca\Documents\doctorly-recipe-tracker\doctorly-recipe-book\ApiClient\bin\Debug\netcoreapp2.2\ApiClient.runtimeconfig.json
+C:\Users\bilca\Documents\doctorly-recipe-tracker\doctorly-recipe-book\ApiClient\bin\Debug\netcoreapp2.2\ApiClient.runtimeconfig.dev.json
+C:\Users\bilca\Documents\doctorly-recipe-tracker\doctorly-recipe-book\ApiClient\bin\Debug\netcoreapp2.2\ApiClient.dll
+C:\Users\bilca\Documents\doctorly-recipe-tracker\doctorly-recipe-book\ApiClient\bin\Debug\netcoreapp2.2\ApiClient.pdb
+C:\Users\bilca\Documents\doctorly-recipe-tracker\doctorly-recipe-book\ApiClient\obj\Debug\netcoreapp2.2\ApiClient.csprojAssemblyReference.cache
+C:\Users\bilca\Documents\doctorly-recipe-tracker\doctorly-recipe-book\ApiClient\obj\Debug\netcoreapp2.2\ApiClient.csproj.CoreCompileInputs.cache
+C:\Users\bilca\Documents\doctorly-recipe-tracker\doctorly-recipe-book\ApiClient\obj\Debug\netcoreapp2.2\ApiClient.AssemblyInfoInputs.cache
+C:\Users\bilca\Documents\doctorly-recipe-tracker\doctorly-recipe-book\ApiClient\obj\Debug\netcoreapp2.2\ApiClient.AssemblyInfo.cs
+C:\Users\bilca\Documents\doctorly-recipe-tracker\doctorly-recipe-book\ApiClient\obj\Debug\netcoreapp2.2\ApiClient.dll
+C:\Users\bilca\Documents\doctorly-recipe-tracker\doctorly-recipe-book\ApiClient\obj\Debug\netcoreapp2.2\ApiClient.pdb

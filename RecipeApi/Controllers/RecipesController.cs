@@ -7,7 +7,7 @@ using RecipeApi.Models;
 
 namespace RecipeApi.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/recipes")]
     [ApiController]
     public class RecipesController : ControllerBase
     {
@@ -17,25 +17,25 @@ namespace RecipeApi.Controllers
         {
             _context = context;
 
-            if (_context.RecipeItems.Count() == 0)
-            {
-                _context.RecipeItems.Add(new RecipeItem 
-                {
-                    Name = "RecipeTest",
-                    Description = "DescriptionTest",
-                    Ingredients = new List<Ingredient>(),
-                    Directions = new List<Direction>()
-                });
+            // if (_context.RecipeItems.Count() == 0)
+            // {
+            //     _context.RecipeItems.Add(new RecipeItem 
+            //     {
+            //         Name = "RecipeTest",
+            //         Description = "DescriptionTest",
+            //         Ingredients = new List<Ingredient>(),
+            //         Directions = new List<Direction>()
+            //     });
 
-                _context.RecipeItems.Add(new RecipeItem 
-                {
-                    Name = "RecipeTestAgain",
-                    Description = "DescriptionTestAgain",
-                    Ingredients = new List<Ingredient>(),
-                    Directions = new List<Direction>()
-                });
-                _context.SaveChanges();
-            }
+            //     _context.RecipeItems.Add(new RecipeItem 
+            //     {
+            //         Name = "RecipeTestAgain",
+            //         Description = "DescriptionTestAgain",
+            //         Ingredients = new List<Ingredient>(),
+            //         Directions = new List<Direction>()
+            //     });
+            //     _context.SaveChanges();
+            // }
         }
 
         // GET api/recipes
