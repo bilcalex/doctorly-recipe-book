@@ -5,18 +5,18 @@ using System.Threading.Tasks;
 using System.Collections.Generic;
 using ApiClient.Models;
 
-namespace HttpClientSample
+namespace RecipesHttpClient
 {
     class Program
     {
         static HttpClient client = new HttpClient();
 
-        static void ShowProduct(RecipeItem recipe)
+        static void ShowRecipe(RecipeItem recipe)
         {
             Console.WriteLine(recipe.ToString());
         }
 
-        static async Task<Uri> CreateProductAsync(RecipeItem recipe)
+        static async Task<Uri> CreateRecipeAsync(RecipeItem recipe)
         {
             HttpResponseMessage response = await client.PostAsJsonAsync(
                 "api/recipes", recipe);
@@ -44,7 +44,6 @@ namespace HttpClientSample
 
         static async Task RunAsync()
         {
-            // Update port # in the following line.
             client.BaseAddress = new Uri("http://localhost:5001/");
             client.DefaultRequestHeaders.Accept.Clear();
             client.DefaultRequestHeaders.Accept.Add(
@@ -66,6 +65,7 @@ namespace HttpClientSample
                         UOM = "KG"
                     }
                 };
+
                 // Create a list of directions
                 var listOfDirections = new List<Direction>()
                 {
@@ -86,13 +86,12 @@ namespace HttpClientSample
                     Directions = listOfDirections
                 };
 
-                var url = await CreateProductAsync(recipe);
+                var url = await CreateRecipeAsync(recipe);
                 Console.WriteLine($"Created at {url}");
 
                 // Get the recipe
                 recipe = await GetRecipeItemAsync(url.PathAndQuery);
-                ShowProduct(recipe);
-
+                ShowRecipe(recipe);
             }
             catch (Exception e)
             {
